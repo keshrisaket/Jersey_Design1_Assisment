@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="316eee12-8e5c-490f-9b4a-b8176b4bd5a1" name="Changes" comment="Set-Up completed" />
+    <list default="true" id="316eee12-8e5c-490f-9b4a-b8176b4bd5a1" name="Changes" comment="Set-Up completed">
+      <change afterPath="$PROJECT_DIR$/src/main/java/beans/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beans/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/Employee_Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/User_Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mysqlconnection/ConnectionProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mysqlconnection/DBConnectionData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/saket/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/saket/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/saket/Demo.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,11 +24,45 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
@@ -45,6 +90,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "D:/saket/jersyfirstproject",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
@@ -96,7 +142,35 @@
       <option name="project" value="LOCAL" />
       <updated>1726049842673</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Set-Up completed">
+      <created>1726050488622</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726050488622</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Set-Up completed">
+      <created>1726050638631</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726050638631</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Set-Up completed">
+      <created>1726050922139</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726050922139</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Set-Up completed">
+      <created>1726051243434</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726051243434</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
